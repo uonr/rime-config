@@ -1,0 +1,16 @@
+
+# Symbol
+♪	yf
+♥	xb
+☆	xk
+λ	lamb
+∀	fora
+∃	exi
+∃	exis
+⇔	iff
+⊤	top
+⊥	bot
+⊥	bott
+⇒	then
+∵	yw
+∴	sy
