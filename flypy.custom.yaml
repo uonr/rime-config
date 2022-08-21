@@ -1,0 +1,20 @@
+patch:
+  "engine/translators/+":
+    - table_translator@custom_phrase_user_top
+    - table_translator@custom_phrase_user_last
+
+  custom_phrase_user_top:
+    dictionary: ""
+    user_dict: user_top
+    db_class: stabledb
+    enable_sentence: false
+    enable_completion: false
+    initial_quality: 0 #用户词和系统词重码 置顶
+  
+  custom_phrase_user_last:
+    dictionary: ""
+    user_dict: user_last
+    db_class: stabledb
+    enable_sentence: false
+    enable_completion: false
+    initial_quality: -1 # 本表词和系统词重码居后
