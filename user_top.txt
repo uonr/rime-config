@@ -1,3 +1,4 @@
+蜜柑	migj
 竹子	vuzi
 组件	zujm
 余裕	yuyu
@@ -112,6 +113,7 @@
 私钥	siyc
 求值	qqvi
 线程	xmig
+编译器	byqi
 当且仅当	dqjd
 
 # Arrow
