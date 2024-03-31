@@ -1,0 +1,339 @@
+竹子	vuzi # top
+组件	zujm # top
+余裕	yuyu # top
+安利	anli # top
+重置	isvi # top
+周目	vzmu
+酱紫	jlzi
+无印	wuyb
+海贼	hdzw # top
+读心	duxb # top
+新番	xbfj # top
+锦江	jbjl # top
+声优	ugyz # top
+残念	cjnm # top
+图鉴	tujm # top
+摇杆	ycgj # top
+高能	gcng # top
+投掷	tzvi # top
+石榴	uilq # top
+护甲	hujx # top
+鸟居	nnju
+诨名	hymk # top
+抗性	khxk # top
+钩爪	gzvx # top
+泛用	fjys # top
+羽化	yuhx # top
+社畜	ueiu # top
+仅当	jbdh
+性癖	xkpi # top
+信标	xbbn # top
+臭鼬	izyz # top
+维基	wwji # top
+硬核	ykhe # top
+赛博	sdbo
+中二	vser
+错综	cozs
+人设	rfue
+现充	xmis
+稳态	wftd
+成句	igju
+矿场	klih
+物语	wuyu # top
+唯我	wwwo # top
+慰藉	wwjp
+术语	uuyu
+前端	qmdr
+拾级而上	ujeu
+互帮互助	hbhv
+非黑即白	fhjb
+百鬼夜行	bgyx
+哔哩哔哩	blbl # top
+量子力学	lzlx # top
+一期一会	yqyh # top
+北落师门	blum # top
+有来有回	ylyh # top
+天神下凡	tuxf # top
+和乐融融	hlrr # top
+同义反复	tyff # top
+自家发电	zjfd # top
+思维导图	swdt # top
+被害妄想	bhwx # top
+太平天国	tptg # top
+
+# RPG
+跑团	pctr
+检定	jmdk # top
+钝击	dyji # top
+超游	icyz
+撕卡	sika # top
+房规	fhgv
+车卡	ieka
+骰子	tzzi
+奥术	aouu
+咒法	vzfa
+短休	drxq
+退散	tvsj
+塑能	sung
+加值	jxvi
+专精	vrjk
+重载	vszd
+巧手	qnuz
+先攻	xmgs
+位面	wwmm
+隐匿	ybni
+欺瞒	qimj
+威吓	wwhe
+术士	uuui
+仆役	puyi
+捕网	buwh
+链枷	ljjx
+轻锤	qkiv
+巨剑	jujm
+巨斧	jufu
+骑枪	qiql
+法器	faqi
+撬棍	qngy
+魔宠	moig
+检定	jmdk
+擒抱	qbbc
+推撞	tvil
+钝击	dyji
+挥砍	hvkj
+强酸	qlsr
+地精	dijk
+力场	liih
+折跃	veyt
+黯蚀	anui
+光耀	glyc
+附魔	fumo
+失能	uing
+魔网	mowh
+结界	jpjp
+迷锁	miso
+目盲	mumh
+石化	uihx
+力竭	lijp
+束缚	uufu
+神裔	ufyi
+魔裔	moyi
+龙裔	lsyi
+矮人	airf
+侏儒	vuru
+兽人	uzrf
+巨魔	jumo
+奇械	qixp
+神器	ugqi
+吟游	ybyz
+药学	ycxt
+锁匠	sojl
+邪神	xpuf
+话术	hxuu
+战技	vjji
+险境	xmjk
+躁狂	zckl
+幕间	mujm
+古神	guuf
+外神	wduf
+模组	mozu
+眷族	jrzu
+旧印	jqyk
+星界	xkjp
+符文	fuwf
+奥能	aong
+魔能	mong
+徽记	hvji
+灵能	lkng
+神术	ufuu
+祈唤	qihr
+同调	tstn
+洞悉	dsxi
+圣疗	ugln
+神祐	ufyz
+宿敌	sudi
+遁术	dyuu
+卓尔	voer
+雅灵	yalk
+板甲	bjjx
+触及	iuji
+借机	jpji
+活化	hohx
+紫衫	ziuj
+长休	ihxq
+守秘人	umrf
+调查员	diyr																																																																																			
+奖励骰	jltz
+惩罚骰	iftz
+提夫林	tflb
+野蛮人	ymrf
+游荡者	ydve
+圣武士	uwui
+圣骑士	uqui
+契术师	quui
+邪术师	xuui
+星之彩	xvcd
+阿卡姆	akmu
+敦威治	dwvi
+死者之书	svvu
+阿萨托斯	asts
+龙与地下城	lydi
+奈亚拉托提普	ndya
+
+
+# 社会 人文 哲学
+规训	gvxy
+祛魅	qumw
+犬儒	qrru
+
+# 游戏
+卡带	kadd
+黑魂	hwhy
+老滚	lcgy
+战锤	vjiv
+只狼	vilh
+雀魂	qthv
+废都	fwdu
+任天堂	rtth
+二段跳	edtn
+明日方舟	mrfv
+皇牌空战	hpkv
+黑暗之魂	havh
+王车易位	wiyw
+
+# Fantasy
+矮人	airf # top
+侏儒	vuru # top
+兽人	uzrf # top
+魔杖	movh
+法杖	favh
+死灵	silk # top
+法师	faui # top
+泰坦	tdtj
+米戈	mige
+狼人	lhrf
+海怪	hdgk
+魔戒	mojp # top
+法师	faui
+死灵	silk
+旧神	jquf
+触媒	iumw
+异界	yijp
+异能	ying
+异怪	yigk
+巨怪	jugk
+秘教	mijn
+秘修	mixq
+地下城	dxig # top
+牛头人	ntrf
+克苏鲁	kslu
+拉莱耶	llye
+食尸鬼	uugv
+史莱姆	ulmu # top
+吟游诗人	yyur
+哈利波特	hlbt # top
+塔希里亚	txly # top
+
+# Programming or Math
+常量	ihll # top
+泛型	fjxk # top
+闭包	bibc
+词法	cifa
+内联	nwlm # top
+异步	yibu # top
+闭源	biyr # top
+哈希	haxi
+丢包	dqbc
+回调	hvdn # top
+多态	dotd # top
+遍历	bmli # top
+冗余	rsyu # top
+公钥	gsyc
+私钥	siyc # top
+求值	qqvi # top
+线程	xmig # top
+编译器	byqi # top
+当且仅当	dqjd
+大语言模型	dyyx
+
+
+# 卡牌游戏
+卡牌	kapd
+手牌	uzpd
+卡手	kauz
+卡组	kazu
+超模	icmo
+套牌	tcpd
+牌库	pdku
+牌组	pdzu
+系命	ximk
+先攻	xmgs
+闪现	ujxm
+跃离	ytli
+守军	uzjy
+返照	fjvc
+连击	lmji
+延势	yjui
+花牌	hxpd
+炉石	luui
+万智	wjvi
+死触	siiu
+万智牌	wvpd
+鹏洛客	plke
+旅法师	lfui
+
+# Arrow
+←	oh # top
+↑	ok # top
+↓	oj # top
+→	ol # top
+
+# 卖萌
+嗼	mokd
+啊呜	aawu # top
+呜呜	wuwu # top
+呜哇	wuwa # top
+欸嘿	eihw # top
+贴贴	tptp # top
+
+# 颜文字
+Ծ‸Ծ	ywz # top
+'◡' ywz # top
+(*╹▽╹*)	ywz # top
+ヾ(๑╹ヮ╹๑)ﾉ"	ywz # top
+(๑•﹏•)	ywz # top
+(▰╹◡╹▰)	ywz # top
+(；▽；)	ywz # top
+❤(。☌ᴗ☌｡)	ywz # top
+٩(╹⌓╹ )۶'	ywz # top
+٩( ๑╹ ꇴ╹)۶	ywz # top
+(⋈◍＞◡＜◍)。✧♡	ywz # top
+(//∇//)	ywz # top
+٩(๑òωó๑)۶	ywz # top
+ʕ•̀ω•́ʔ✧	ywz # top
+(´Д｀;)	ywz # top
+(∩´﹏`∩)	ywz # top
+(´•̥ ̯ •̥`)	ywz # top
+(꒪ꇴ꒪|||) ywz # top
+＼＼\(۶•̀ᴗ•́)۶//／／	ywz # top
+
+
+# Symbol
+♪	yf
+♡	xb
+☆	xk
+λ	lamb
+∀	fora
+∃	exi
+∃	exis
+⇔	iff
+⊤	top
+⊥	bot
+⊥	bott
+⇒	then
+∵	yw
+∴	sy
+♂	nj
+♀	nv
+™	tm
+⨯	x
+○	qr
