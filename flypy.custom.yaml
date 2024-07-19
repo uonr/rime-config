@@ -14,3 +14,13 @@ patch:
     name: ascii_punct
     states: [ "。，", "．，" ]
     reset: 0
+  # Disable ascii input
+  # https://github.com/rime/squirrel/issues/221
+  engine/processors:
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
