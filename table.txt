@@ -338,3 +338,7 @@
 ™	tm
 ⨯	x
 ○	qr
+
+# Added
+七曜	qiyc
+欧几里得	ojld
