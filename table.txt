@@ -60,6 +60,7 @@
 思维导图	swdt # top
 被害妄想	bhwx # top
 太平天国	tptg # top
+梅菲斯特	mfst
 
 # RPG
 跑团	pctr
