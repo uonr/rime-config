@@ -1,7 +1,1 @@
-build/
-flypy_*.txt
-flypy.schema.yaml
-installation.yaml
-user.yaml
-rime.lua
-lua/calculator_translator.lua
+.envrc

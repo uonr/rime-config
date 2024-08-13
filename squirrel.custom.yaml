@@ -1,0 +1,5 @@
+patch:
+  # https://github.com/rime/squirrel/issues/584
+  app_options:
+  "style/color_scheme": native
+  "style/font_point": 20

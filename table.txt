@@ -26,6 +26,7 @@
 羽化	yuhx # top
 社畜	ueiu # top
 仅当	jbdh
+七曜	qiyc
 性癖	xkpi # top
 信标	xbbn # top
 臭鼬	izyz # top
@@ -44,6 +45,7 @@
 慰藉	wwjp
 术语	uuyu
 前端	qmdr
+编辑器	bjqi
 拾级而上	ujeu
 互帮互助	hbhv
 非黑即白	fhjb
@@ -61,6 +63,7 @@
 被害妄想	bhwx # top
 太平天国	tptg # top
 梅菲斯特	mfst
+欧几里得	ojld
 
 # RPG
 跑团	pctr
@@ -340,5 +343,3 @@
 ○	qr
 
 # Added
-七曜	qiyc
-欧几里得	ojld
