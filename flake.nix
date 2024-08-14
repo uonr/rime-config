@@ -16,9 +16,7 @@
         pkgs = nixpkgs.legacyPackages.${system};
       in
       {
-        devShells.default = pkgs.mkShell {
-          packages = [ (pkgs.python3.withPackages (python-pkgs: [ python-pkgs.watchdog ])) ];
-        };
+        devShells.default = pkgs.mkShell { packages = [ pkgs.python3 ]; };
       }
     );
 }

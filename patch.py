@@ -13,6 +13,7 @@ def find_rime_path():
     if rime_path is None or not os.path.exists(rime_path):
         print("Rime configuration path not found.")
         exit(1)
+    return rime_path
 
 PATCH_START_MARK = "### PATCH START ###"
 PATCH_END_MARK = "### PATCH END ###"
