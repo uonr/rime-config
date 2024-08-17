@@ -6,6 +6,7 @@
 周目	vzmu
 酱紫	jlzi
 无印	wuyb
+机翻	jifj # top
 海贼	hdzw # top
 读心	duxb # top
 新番	xbfj # top
@@ -45,6 +46,8 @@
 慰藉	wwjp
 术语	uuyu
 前端	qmdr
+麦麦	mdmd
+金拱门	jgmf
 编辑器	bjqi
 拾级而上	ujeu
 互帮互助	hbhv
@@ -64,6 +67,24 @@
 太平天国	tptg # top
 梅菲斯特	mfst
 欧几里得	ojld
+
+新宿	xbsu
+品川	pbir # top
+涩谷	segu
+大田	datm
+蒲田	putm # top
+奈良	ndll
+熊本	xsbf # top
+青森	qksf
+岩手	yjuz
+宫城	gsig
+群马	qyma
+爱知	aivi
+鸟取	nnqu
+入管局	rgju
+鹿儿岛	ledc
+神奈川	unir
+都道府县	ddfx
 
 # RPG
 跑团	pctr
@@ -165,7 +186,7 @@
 紫衫	ziuj
 长休	ihxq
 守秘人	umrf
-调查员	diyr																																																																																			
+调查员	diyr
 奖励骰	jltz
 惩罚骰	iftz
 提夫林	tflb
@@ -197,8 +218,11 @@
 只狼	vilh
 雀魂	qthv
 废都	fwdu
+战雷	vjlw
+法环	fahr # top
 任天堂	rtth
 二段跳	edtn
+双人成行	urix
 明日方舟	mrfv
 皇牌空战	hpkv
 黑暗之魂	havh
@@ -246,6 +270,7 @@
 异步	yibu # top
 闭源	biyr # top
 哈希	haxi
+快取	kkqu
 丢包	dqbc
 回调	hvdn # top
 多态	dotd # top
@@ -255,6 +280,7 @@
 私钥	siyc # top
 求值	qqvi # top
 线程	xmig # top
+续延	xuyj
 编译器	byqi # top
 当且仅当	dqjd
 大语言模型	dyyx
@@ -265,6 +291,7 @@
 手牌	uzpd
 卡手	kauz
 卡组	kazu
+灵摆	lkbd
 超模	icmo
 套牌	tcpd
 牌库	pdku
@@ -275,12 +302,18 @@
 跃离	ytli
 守军	uzjy
 返照	fjvc
+珠泪	vulw # top
 连击	lmji
 延势	yjui
 花牌	hxpd
 炉石	luui
 万智	wjvi
+
+手坑	uzkg
+自肃	zisu # top
 死触	siiu
+闪刀	ujdc
+闪刀姬	udji # top
 万智牌	wvpd
 鹏洛客	plke
 旅法师	lfui
@@ -297,28 +330,28 @@
 呜呜	wuwu # top
 呜哇	wuwa # top
 欸嘿	eihw # top
+嘎嗷	gaao
 贴贴	tptp # top
 
 # 颜文字
 Ծ‸Ծ	ywz # top
 '◡' ywz # top
 (*╹▽╹*)	ywz # top
-ヾ(๑╹ヮ╹๑)ﾉ"	ywz # top
+(๑´ڡ`๑) 	ywz # top
 (๑•﹏•)	ywz # top
 (▰╹◡╹▰)	ywz # top
 (；▽；)	ywz # top
 ❤(。☌ᴗ☌｡)	ywz # top
-٩(╹⌓╹ )۶'	ywz # top
+٩(╹⌓╹ )۶	ywz # top
 ٩( ๑╹ ꇴ╹)۶	ywz # top
-(⋈◍＞◡＜◍)。✧♡	ywz # top
-(//∇//)	ywz # top
+(๑•̀ㅂ•́)و✧	ywz # top
 ٩(๑òωó๑)۶	ywz # top
 ʕ•̀ω•́ʔ✧	ywz # top
-(´Д｀;)	ywz # top
+✧⁺⸜(●˙▾˙●)⸝⁺✧	ywz # top
 (∩´﹏`∩)	ywz # top
 (´•̥ ̯ •̥`)	ywz # top
-(꒪ꇴ꒪|||) ywz # top
-＼＼\(۶•̀ᴗ•́)۶//／／	ywz # top
+ヾ(•ω•`。) ywz # top
+(•ᴗ•)	ywz # top
 
 
 # Symbol
