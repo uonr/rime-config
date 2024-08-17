@@ -4,7 +4,10 @@ import time
 from optparse import OptionParser
 import os
 import patch
+import logging
 
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+logger = logging.getLogger(__name__)
 parser = OptionParser()
 
 parser.add_option("-p", "--path", dest="rime_path",
@@ -19,7 +22,7 @@ if __name__ == "__main__":
     filename = "table.txt"
         
     def run_on_change():
-        print("File changed! Patching...")
+        logger.info("File changes detected, patching the file")
         patch.patch(rime_path=rime_path)
 
     mtime = os.path.getmtime(filename)
