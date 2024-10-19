@@ -47,6 +47,9 @@
 术语	uuyu
 前端	qmdr
 麦麦	mdmd
+英伟达	ywda
+幼驯染	yxrj # top
+偷腥猫	txmc # top
 金拱门	jgmf
 编辑器	bjqi
 拾级而上	ujeu
@@ -118,6 +121,7 @@
 巨斧	jufu
 骑枪	qiql
 法器	faqi
+塔莎	taua
 撬棍	qngy
 魔宠	moig
 检定	jmdk
@@ -194,6 +198,7 @@
 游荡者	ydve
 圣武士	uwui
 圣骑士	uqui
+奇械师	qxui
 契术师	quui
 邪术师	xuui
 星之彩	xvcd
@@ -227,6 +232,9 @@
 皇牌空战	hpkv
 黑暗之魂	havh
 王车易位	wiyw
+皮卡丘	pkqq
+谜拟丘	mnqq
+新叶喵	xymn
 
 # Fantasy
 矮人	airf # top
@@ -281,6 +289,8 @@
 求值	qqvi # top
 线程	xmig # top
 续延	xuyj
+图灵	tulk
+图灵机	tlji # top
 编译器	byqi # top
 当且仅当	dqjd
 大语言模型	dyyx
@@ -335,6 +345,7 @@
 
 # 颜文字
 Ծ‸Ծ	ywz # top
+ᗜ˰ᗜ ywz # top
 '◡' ywz # top
 (*╹▽╹*)	ywz # top
 (๑´ڡ`๑) 	ywz # top
@@ -376,3 +387,4 @@
 ○	qr
 
 # Added
+怪谈	gktj
