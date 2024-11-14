@@ -327,6 +327,10 @@
 万智牌	wvpd
 鹏洛客	plke
 旅法师	lfui
+灰流丽	hlli
+颉颃	xphh
+颉颃胜负	xhuf
+通招	tsvc # top
 
 # Arrow
 ←	oh # top
@@ -363,7 +367,7 @@
 (´•̥ ̯ •̥`)	ywz # top
 ヾ(•ω•`。) ywz # top
 (•ᴗ•)	ywz # top
-
+颜文字	ywz # top
 
 # Symbol
 ♪	yf
@@ -388,3 +392,7 @@
 
 # Added
 怪谈	gktj
+单元测试	dycu
+殉道	xydc # top
+训读	xydu
+喵帕斯	mpsu
