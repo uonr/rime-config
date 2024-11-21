@@ -341,12 +341,28 @@
 喷流	pflq
 亡龙	whls
 赤龙	iils
+俱舍	juue
+盖卡	gdka
 青眼白龙	qybl
 废件	fwjm
 动点	dsdm
 牌效	pdxn
 假卡	jxka
 科乐美	knmi
+三战	sjvj
+单卡	djka
+墓效	muxn
+堆墓	dvmu
+三战之号	svvh
+三战之才	svvc
+幻奏	hrzz
+坏兽	hkuz
+雷火	lwho
+肃声	suug
+万宝槌	wbiv
+塞勒涅	slnp
+火灵天星	hltx
+恩底弥翁	edmw
 
 # Arrow
 ←	oh # top
