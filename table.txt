@@ -319,18 +319,34 @@
 炉石	luui
 万智	wjvi
 
-手坑	uzkg
 自肃	zisu # top
 死触	siiu
-闪刀	ujdc
-闪刀姬	udji # top
 万智牌	wvpd
 鹏洛客	plke
 旅法师	lfui
-灰流丽	hlli
+
+# 游戏王
+手坑	uzkg
+访问码语者	fwmv
+灰流丽	hlli # top
+闪刀	ujdc
+闪刀姬	udji # top
 颉颃	xphh
+码丽丝	mlsi
 颉颃胜负	xhuf
 通招	tsvc # top
+旅鸟	lvnn
+蛇眼	ueyj # top
+饼图	bktu # top
+喷流	pflq
+亡龙	whls
+赤龙	iils
+青眼白龙	qybl
+废件	fwjm
+动点	dsdm
+牌效	pdxn
+假卡	jxka
+科乐美	knmi
 
 # Arrow
 ←	oh # top
@@ -396,3 +412,33 @@
 殉道	xydc # top
 训读	xydu
 喵帕斯	mpsu
+绝赞	jtzj
+字幕组	zmzu
+币圈	biqr
+忍杀	rfua
+忍者	rfve # top
+阳角	yhjt
+阴角	ybjt
+东雪莲	dxlm
+全景敞视	qjiu
+边沁	bmqb
+福柯	fuke
+维特根斯坦	wtgt
+萨特	sate
+康米	khmi
+茨城	ciig # top
+跟读	gfdu
+炎上	yjuh
+港漫	ghmj # top
+踢门	timf
+提亚马特	tymt
+雌小鬼	cxgv
+魅魔	mwmo # top
+梁木	llmu
+分片	ffpm
+塞翻	sdfj
+未然	wwrj # top
+病娇	bkjn # top
+芙莉莲	fllm
+波奇	boqi
+卡里斯玛	klsm
