@@ -75,3 +75,4 @@ def patch(rime_path):
     patch_file(os.path.join(rime_path, "flypy_top.txt"), top_list)
     patch_file(os.path.join(rime_path, "flypy_user.txt"), last_list)
     shutil.copy("flypy.custom.yaml", rime_path)
+    shutil.copy("squirrel.custom.yaml", rime_path)
