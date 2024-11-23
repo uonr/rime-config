@@ -230,6 +230,7 @@
 战雷	vjlw
 法环	fahr # top
 任天堂	rtth
+宝可梦	bkmg
 二段跳	edtn
 双人成行	urix
 明日方舟	mrfv
@@ -336,9 +337,20 @@
 # 卡牌游戏
 卡牌	kapd
 手牌	uzpd
+呼魂	huhy
+掘穴	jtxt
+警戒	jkjp
+结附	jpfu
+历传	liir
+灵技	lkji
+倾曳	qkye
+融咒	rsvz
+弹回	tjhv
+醒转	xkvr
 卡手	kauz
 卡组	kazu
-灵摆	lkbd
+复还	fuhr
+
 衍生物	yuwu # top
 超模	icmo
 套牌	tcpd
@@ -365,6 +377,9 @@
 
 # 游戏王
 手坑	uzkg
+灵摆	lkbd
+战破	vjpo
+盖五	gdwu
 访问码语者	fwmv
 急袭猛禽	jxmq
 灰流丽	hlli # top
@@ -541,3 +556,40 @@
 潜存	qmcy
 模态	motd
 成金	igjb
+方鸟	fhnn
+共轭	gsee # top
+补帧	buvf
+插帧	iavf
+关键帧	gjvf
+掉帧	dnvf
+分镜	ffjk
+赛璐璐	sllu
+蒸气朋克	vqpk
+赛博朋克	sbpk
+西西弗斯	xxfs
+叠瓦	dpwa
+歌爱雪	gaxt
+初音	iuyb
+猫车	mcie
+法反	fafj
+村规	cygv
+配平	pwpk
+该隐	gdyb
+氏族	uizu
+真祖	vfzu
+从者	csve
+以撒	yisa
+抽丝	izsi
+月厨	ytcu
+奈须	ndxu
+田中	tmvs
+佐藤	zotg
+案内	annw
+依存	yicy # top
+终末	vsmo
+传火	irho
+特摄	teue
+耽美	djmw
+跳脸	tnlm
+跳反	tnfj
+审卡	ufka
