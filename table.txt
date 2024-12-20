@@ -593,3 +593,23 @@
 跳脸	tnlm
 跳反	tnfj
 审卡	ufka
+迪斯科	dske
+魔理莎	mlua
+灵梦	lkmg
+刹帝利	udli # top
+俱舍怒威	junw # top
+爱音	aiyb
+长毛象	imxl
+亚里士多德	ylud
+康德	khde
+红温	hswf
+集换式卡牌	jhup
+狗牙	gzya
+光追	glvv
+样条	yhtn
+贝塞尔	bser
+马可夫	mkfu
+傅立叶	flye
+区役所	qyso
+过拟合	gnhe
+丹炉	djlu
