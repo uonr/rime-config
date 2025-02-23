@@ -376,6 +376,7 @@
 旅法师	lfui
 
 # 游戏王
+游戏王	yxwh
 手坑	uzkg
 灵摆	lkbd
 战破	vjpo

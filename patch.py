@@ -4,12 +4,30 @@ import shutil
 
 from sys import platform
 
+def is_wsl():
+    if not platform.startswith("linux"):
+        return False
+    try:
+        with open("/proc/version", "r") as f:
+            return "microsoft" in f.read().lower()
+    except Exception:
+        return False
+
 def find_rime_path():
     rime_path = None
     if platform == "darwin":
         rime_path = os.path.expanduser("~/Library/Rime")
     elif platform.startswith("linux"):
-        rime_path = os.path.expanduser("~/.local/share/fcitx5/rime")
+        # Test if WSL
+        if is_wsl():
+            # Detect `wslpath` command
+            if os.system('wslpath "The wslpath exists."') != 0:
+                print("wslpath command not found.")
+                exit(1)
+            windows_user_profile = os.popen('wslpath "$(wslvar USERPROFILE)"').read().strip()
+            rime_path = os.path.join(windows_user_profile, "AppData/Roaming/Rime")
+        else:
+            rime_path = os.path.expanduser("~/.local/share/fcitx5/rime")
     if rime_path is None or not os.path.exists(rime_path):
         print("Rime configuration path not found.")
         exit(1)

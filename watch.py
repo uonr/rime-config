@@ -27,6 +27,7 @@ if __name__ == "__main__":
 
     mtime = os.path.getmtime(filename)
     size = os.path.getsize(filename)
+    run_on_change()
     while True:
         # Check if the file changes
         current_mtime = os.path.getmtime(filename)
