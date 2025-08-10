@@ -615,3 +615,5 @@
 过拟合	gnhe
 丹炉	djlu
 @urldbot 	urld
+欧拉	olau
+欧拉角	oljc
