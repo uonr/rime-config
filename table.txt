@@ -6,6 +6,11 @@
 周目	vzmu
 酱紫	jlzi
 无印	wuyb
+怪谈	gktj
+红迪	hsdi
+社恐	ueks
+绝赞	jtzj
+殉道	xydc # top
 机翻	jifj # top
 海贼	hdzw # top
 读心	duxb # top
@@ -20,6 +25,8 @@
 石榴	uilq # top
 护甲	hujx # top
 鸟居	nnju
+阳角	yhjt
+阴角	ybjt
 诨名	hymk # top
 抗性	khxk # top
 钩爪	gzvx # top
@@ -41,6 +48,7 @@
 稳态	wftd
 成句	igju
 矿场	klih
+厌女	yjnv
 物语	wuyu # top
 唯我	wwwo # top
 慰藉	wwjp
@@ -71,12 +79,26 @@
 梅菲斯特	mfst
 欧几里得	ojld
 
+# 日
 新宿	xbsu
 品川	pbir # top
 涩谷	segu
+忍者	rfve # top
+区役所	qyso
+训读	xydu
+吕伊波	iroh
+吕伊波	lybo
+炎上	yjuh
+茨城	ciig # top
 大田	datm
+秋叶原	qyyr
+大森	dasf
+川崎	kwsk
 蒲田	putm # top
 奈良	ndll
+田中	tmvs
+佐藤	zotg
+案内	annw
 熊本	xsbf # top
 青森	qksf
 岩手	yjuz
@@ -91,6 +113,8 @@
 
 # RPG
 跑团	pctr
+村规	cygv
+审卡	ufka
 检定	jmdk # top
 钝击	dyji # top
 超游	icyz
@@ -217,8 +241,85 @@
 规训	gvxy
 祛魅	qumw
 犬儒	qrru
+汉莫拉底	hmld
+亚里士多德	ylud
+全景敞视	qjiu
+边沁	bmqb
+福柯	fuke
+维特根斯坦	wtgt
+萨特	sate
+康米	khmi
+海德格尔	hdge
+自为	ziww
+超验	icyj
+诺斯底	nsdi
+诺斯替	nsti
+大他者	dtve
+康德	khde
+笛卡尔	dker
+永劫回归	yjhg
+此在	cizd
+摹状词	mvci
+实存	uicy
+潜存	qmcy
+模态	motd
+西西弗斯	xxfs
+
+# 二
+母鸡卡	mjka
+祥子	xlzi # top
+魔理莎	mlua
+爱音	aiyb
+素世	suui # top
+京阿尼	jani
+京蜜	jkmi
+灵梦	lkmg
+馒馒来	mmld
+终末	vsmo
+依存	yicy # top
+奈须	ndxu
+特摄	teue
+真祖	vfzu
+从者	csve
+月厨	ytcu
+歌爱雪	gaxt
+初音	iuyb
+赛璐璐	sllu
+分镜	ffjk
+作监	zojm
+中割	vsge
+进击的巨人	jjjr
+进击的巨人	jjdr
+凉宫春日	lgir
+番组	fjzu # top
+系构	xigz
+原案	yran
+忍者杀手	rvuu
+咕哇	guwa
+南无三	nwsj
+撒由娜啦	synl
+阿夸	aakx
+病娇	bkjn # top
+芙莉莲	fllm
+波奇	boqi
+塞翻	sdfj
+雌小鬼	cxgv
+魅魔	mwmo # top
+港漫	ghmj # top
+东雪莲	dxlm
+忍杀	rfua
+喵帕斯	mpsu
+字幕组	zmzu
+
 
 # 游戏
+肉鸽	rzge
+狗牙	gzya
+光追	glvv
+高模	gcmo
+低模	dimo
+穿模	irmo
+建模	jmmo
 卡带	kadd
 黑魂	hwhy
 雾门	wumf
@@ -227,11 +328,13 @@
 只狼	vilh
 雀魂	qthv
 废都	fwdu
+传火	irho
 战雷	vjlw
 法环	fahr # top
 任天堂	rtth
 宝可梦	bkmg
 二段跳	edtn
+传颂之物	isvw
 双人成行	urix
 明日方舟	mrfv
 碧蓝档案	blda
@@ -313,16 +416,21 @@
 闭包	bibc
 词法	cifa
 内联	nwlm # top
+共轭	gsee # top
 异步	yibu # top
 闭源	biyr # top
 哈希	haxi
+回测	hvce
 快取	kkqu
 丢包	dqbc
+配平	pwpk
+显存	xmcy # top
 回调	hvdn # top
 多态	dotd # top
 遍历	bmli # top
 冗余	rsyu # top
 公钥	gsyc
+分片	ffpm
 私钥	siyc # top
 求值	qqvi # top
 线程	xmig # top
@@ -332,6 +440,16 @@
 编译器	byqi # top
 当且仅当	dqjd
 大语言模型	dyyx
+傅立叶	flye
+过拟合	gnhe
+丹炉	djlu
+残差	ijia
+欧拉角	oljc
+欧拉	olau
+样条	yhtn
+贝塞尔	bser
+马可夫	mkfu
+单元测试	dycu
 
 
 # 卡牌游戏
@@ -362,25 +480,34 @@
 跃离	ytli
 守军	uzjy
 返照	fjvc
-珠泪	vulw # top
 连击	lmji
 延势	yjui
 花牌	hxpd
 炉石	luui
 万智	wjvi
 
-自肃	zisu # top
 死触	siiu
 万智牌	wvpd
 鹏洛客	plke
 旅法师	lfui
+集换式卡牌	jhup
 
 # 游戏王
 游戏王	yxwh
+成金	igjb
+自肃	zisu # top
 手坑	uzkg
 灵摆	lkbd
+妹卡	mwka
+红坑	hskg
+联栗炮	llpc
 战破	vjpo
 盖五	gdwu
+做场	zoih
+小夜	xnye
+刹帝利	udli # top
+俱舍怒威	junw # top
+一世坏	yuhk
 访问码语者	fwmv
 急袭猛禽	jxmq
 灰流丽	hlli # top
@@ -389,8 +516,15 @@
 星杯	xkbw
 颉颃	xphh
 码丽丝	mlsi
+圣枪	ugql
+三月兔	sytu
+彩流体	clti
+阿宝阿库	abak
 颉颃胜负	xhuf
 通招	tsvc # top
+珠泪	vulw # top
+琪多	qido
+露露	lulu # top
 旅鸟	lvnn
 蛇眼	ueyj # top
 饼图	bktu # top
@@ -420,7 +554,8 @@
 三战之才	svvc
 幻奏	hrzz
 坏兽	hkuz
-雷火	lwho
+里侧除外	lciw
+雷火	lwho # top
 肃声	suug
 万宝槌	wbiv
 塞勒涅	slnp
@@ -443,26 +578,17 @@
 贴贴	tptp # top
 
 # 颜文字
-Ծ‸Ծ	ywz # top
 ᗜ˰ᗜ ywz # top
 '◡' ywz # top
 (*╹▽╹*)	ywz # top
 (๑´ڡ`๑) 	ywz # top
 (๑•﹏•)	ywz # top
-(▰╹◡╹▰)	ywz # top
 (；▽；)	ywz # top
-❤(。☌ᴗ☌｡)	ywz # top
 ٩(╹⌓╹ )۶	ywz # top
 ٩( ๑╹ ꇴ╹)۶	ywz # top
 (๑•̀ㅂ•́)و✧	ywz # top
-٩(๑òωó๑)۶	ywz # top
-ʕ•̀ω•́ʔ✧	ywz # top
-✧⁺⸜(●˙▾˙●)⸝⁺✧	ywz # top
 (∩´﹏`∩)	ywz # top
 (´•̥ ̯ •̥`)	ywz # top
-ヾ(•ω•`。) ywz # top
-(•ᴗ•)	ywz # top
-颜文字	ywz # top
 
 # Symbol
 ♪	yf
@@ -485,136 +611,50 @@
 ⨯	x
 ○	qr
 
+# Shortcut
+urldbot 	urld # top
+/timer@timemagicianbot	time
+
 # Added
-怪谈	gktj
-单元测试	dycu
-殉道	xydc # top
-训读	xydu
-喵帕斯	mpsu
-绝赞	jtzj
-字幕组	zmzu
 币圈	biqr
-忍杀	rfua
-忍者	rfve # top
-阳角	yhjt
-阴角	ybjt
-东雪莲	dxlm
-全景敞视	qjiu
-边沁	bmqb
-福柯	fuke
-维特根斯坦	wtgt
-萨特	sate
-康米	khmi
-茨城	ciig # top
 跟读	gfdu
-炎上	yjuh
-港漫	ghmj # top
 踢门	timf
-雌小鬼	cxgv
-魅魔	mwmo # top
 梁木	llmu
-分片	ffpm
-塞翻	sdfj
 未然	wwrj # top
-病娇	bkjn # top
-芙莉莲	fllm
-波奇	boqi
 卡里斯玛	klsm
-诺斯底	nsdi
-诺斯替	nsti
-超验	icyj
+奈奈	# top
 抖内	dznw
-永劫回归	yjhg
 一莲托生	yltu
-阿夸	aakx
-残差	ijia
-大森	dasf
-川崎	kwsk
 动态视力	dtul
-咕哇	guwa
-南无三	nwsj
-撒由娜啦	synl
 芭芭雅嘎	bbyg
-忍者杀手	rvuu
-系构	xigz
-原案	yran
-传颂之物	isvw
 番外	fjwd
-番组	fjzu # top
 做种	zovs
-进击的巨人	jjjr
-进击的巨人	jjdr
-凉宫春日	lgir
-高模	gcmo
-低模	dimo
-穿模	irmo
-建模	jmmo
 单曲循环	dqxh
-此在	cizd
-大他者	dtve
-摹状词	mvci
-实存	uicy
-潜存	qmcy
-模态	motd
-成金	igjb
 方鸟	fhnn
-共轭	gsee # top
 补帧	buvf
 插帧	iavf
 关键帧	gjvf
 掉帧	dnvf
-分镜	ffjk
-赛璐璐	sllu
 蒸气朋克	vqpk
 赛博朋克	sbpk
-西西弗斯	xxfs
 叠瓦	dpwa
-歌爱雪	gaxt
-初音	iuyb
 猫车	mcie
 法反	fafj
-村规	cygv
-配平	pwpk
 该隐	gdyb
 氏族	uizu
-真祖	vfzu
-从者	csve
 以撒	yisa
+乱数	lrsu
 抽丝	izsi
-月厨	ytcu
-奈须	ndxu
-田中	tmvs
-佐藤	zotg
-案内	annw
-依存	yicy # top
-终末	vsmo
-传火	irho
-特摄	teue
 耽美	djmw
 跳脸	tnlm
 跳反	tnfj
-审卡	ufka
 迪斯科	dske
-魔理莎	mlua
-灵梦	lkmg
-刹帝利	udli # top
-俱舍怒威	junw # top
-爱音	aiyb
 长毛象	imxl
-亚里士多德	ylud
-康德	khde
 红温	hswf
-集换式卡牌	jhup
-狗牙	gzya
-光追	glvv
-样条	yhtn
-贝塞尔	bser
-马可夫	mkfu
-傅立叶	flye
-区役所	qyso
-过拟合	gnhe
-丹炉	djlu
-urldbot 	urld # top
-欧拉	olau
-欧拉角	oljc
-汉莫拉底	hmld
+流浪猫	llmc
+打杆	dagj
+俯仰	fuyh # top
+横滚	hggy
+杆量	gjll
+拓竹	tovu
+变百	bmbj
