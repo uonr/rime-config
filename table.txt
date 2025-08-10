@@ -384,7 +384,7 @@
 访问码语者	fwmv
 急袭猛禽	jxmq
 灰流丽	hlli # top
-闪刀	ujdc
+闪刀	ujdc # top
 闪刀姬	udji # top
 星杯	xkbw
 颉颃	xphh
@@ -614,6 +614,7 @@
 区役所	qyso
 过拟合	gnhe
 丹炉	djlu
-@urldbot 	urld
+urldbot 	urld # top
 欧拉	olau
 欧拉角	oljc
+汉莫拉底	hmld

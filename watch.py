@@ -6,12 +6,19 @@ import os
 import patch
 import logging
 
-logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+logging.basicConfig(
+    format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO
+)
 logger = logging.getLogger(__name__)
 parser = OptionParser()
 
-parser.add_option("-p", "--path", dest="rime_path",
-                  help="The path of rime configurations", metavar="PATH")
+parser.add_option(
+    "-p",
+    "--path",
+    dest="rime_path",
+    help="The path of rime configurations",
+    metavar="PATH",
+)
 
 
 if __name__ == "__main__":
@@ -19,8 +26,9 @@ if __name__ == "__main__":
     rime_path = options.rime_path
     if rime_path is None:
         rime_path = patch.find_rime_path()
+    logging.info(f"Using Rime path: {rime_path}")
     filename = "table.txt"
-        
+
     def run_on_change():
         logger.info("File changes detected, patching the file")
         patch.patch(rime_path=rime_path)
