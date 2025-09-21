@@ -12,6 +12,16 @@
 酱紫	jlzi
 无印	wuyb
 怪谈	gktj
+龙傲天	latm
+玛丽苏	mlsu
+试错	uico # top
+女同	nvts # top
+直女	vinv # top
+重女	vsnv
+杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你	ulni
+福瑞	furv # top
+男同	njts # top
+直男	vinj
 红迪	hsdi
 社恐	ueks
 绝赞	jtzj
@@ -111,6 +121,11 @@
 群马	qyma
 爱知	aivi
 鸟取	nnqu
+给与	gwyu
+给料	gwln
+残业	cjye
+大变申	dbuf
+技人国	jrgo
 入管局	rgju
 鹿儿岛	ledc
 神奈川	unir
@@ -289,6 +304,15 @@
 月厨	ytcu
 歌爱雪	gaxt
 初音	iuyb
+败犬	bdqr
+粉毛	ffmc
+切黑	qphw
+玛奇玛	mqma
+哆啦A梦	dlam
+定番	dkfj
+八岐大蛇	bqdu
+文库	wfku # top
+魔法少女	mfun
 赛璐璐	sllu
 分镜	ffjk
 作监	zojm
@@ -330,6 +354,16 @@
 雾门	wumf
 老滚	lcgy
 战锤	vjiv
+前摇	qmyc
+后摇	hzyc # top
+快慢刀	kmdc
+目押	muya
+立回	lihv
+硬直	ykvi # top
+论破	lypo
+伪证	wwvg
+异议	yiyi
+丝之歌	svge
 只狼	vilh
 雀魂	qthv
 废都	fwdu
@@ -455,6 +489,7 @@
 贝塞尔	bser
 马可夫	mkfu
 单元测试	dycu
+单测	djce
 
 
 # 卡牌游戏
@@ -619,6 +654,7 @@
 # Shortcut
 urldbot 	urld # top
 /timer@timemagicianbot	time
+Google	goog
 
 # Added
 币圈	biqr
