@@ -18,7 +18,8 @@
 女同	nvts # top
 直女	vinv # top
 重女	vsnv
-杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你杀了你	ulni
+杀了你杀了你杀了你杀了你	ulni
+捅死你捅死你捅死你捅死你	tsni
 福瑞	furv # top
 男同	njts # top
 直男	vinj
@@ -124,7 +125,7 @@
 给与	gwyu
 给料	gwln
 残业	cjye
-大变申	dbuf
+大変申	dbuf
 技人国	jrgo
 入管局	rgju
 鹿儿岛	ledc
@@ -260,6 +261,7 @@
 # 社会 人文 哲学
 规训	gvxy
 祛魅	qumw
+范式	fjui
 犬儒	qrru
 汉莫拉底	hmld
 亚里士多德	ylud
@@ -289,6 +291,16 @@
 母鸡卡	mjka
 祥子	xlzi # top
 魔理莎	mlua
+男娘	njnl
+萌娘	mgnl
+娘化	nlhx
+猫娘	mcnl
+猫耳	mcer
+兽娘	uznl
+兽耳	uzer
+药娘	ycnl
+魔物	mowu
+魔物娘	mwnl
 爱音	aiyb
 素世	suui # top
 京阿尼	jani
@@ -316,6 +328,7 @@
 赛璐璐	sllu
 分镜	ffjk
 作监	zojm
+原画	yrhx
 中割	vsge
 进击的巨人	jjjr
 进击的巨人	jjdr
@@ -373,6 +386,7 @@
 任天堂	rtth
 宝可梦	bkmg
 二段跳	edtn
+跳跳乐	ttle # top
 传颂之物	isvw
 双人成行	urix
 明日方舟	mrfv
@@ -393,6 +407,8 @@
 皮卡丘	pkqq
 谜拟丘	mnqq
 新叶喵	xymn
+喵哈	mnha
+魔幻假面喵	mhjm
 
 # Fantasy
 矮人	airf # top
@@ -460,6 +476,23 @@
 闭源	biyr # top
 哈希	haxi
 回测	hvce
+证伪	vgww
+反证	fjvg
+三段论	sdly
+态射	tdue
+恒等	hhdg
+正交	vgjn
+同态	tstd
+非欧	fwou
+洛必达	lbda
+贝叶斯	bysi
+康托尔	kter
+拉普拉斯	lpls
+似然	sirj
+帕累托	plto
+正态	vgtd
+阿贝尔群	abeq
+自然变换	zrbh
 快取	kkqu
 丢包	dqbc
 配平	pwpk
@@ -557,6 +590,9 @@
 颉颃	xphh
 码丽丝	mlsi
 圣枪	ugql
+睡鼠	uvuu # top
+渊兽	yruz
+次吸	cixi
 三月兔	sytu
 彩流体	clti
 阿宝阿库	abak
@@ -655,9 +691,20 @@
 urldbot 	urld # top
 /timer@timemagicianbot	time
 Google	goog
+GitHub	gith
+Apple	appl
+iPhone	ipho
+Android	andr
+Rust	rust
+Linux	linu
+
+# 钱
+币圈	biqr
+期权	qiqr
+套利	tcli
+关税	gruv
 
 # Added
-币圈	biqr
 跟读	gfdu
 踢门	timf
 梁木	llmu
@@ -674,6 +721,7 @@ Google	goog
 方鸟	fhnn
 补帧	buvf
 插帧	iavf
+抽帧	izvf
 关键帧	gjvf
 掉帧	dnvf
 蒸气朋克	vqpk
